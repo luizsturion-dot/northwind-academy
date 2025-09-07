@@ -41,7 +41,8 @@ models:
     # Applies to all files under models/example/
     intermediate:
       +schema: int
-    
+    # Não precisaria desse + na frente, mas é uma boa prática
+
     marts:
       +materialized: table
       +schema: marts
