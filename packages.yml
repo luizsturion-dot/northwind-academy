@@ -1,0 +1,5 @@
+packages:
+  - package: dbt-labs/dbt_utils
+    version: 1.3.0
+
+# Neste arquivo, ele buscou no google por "dbt utils package", copiou e colou o código aqui.
